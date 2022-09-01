@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello 👋
 
-My name is Leonardo Nava, I'm from Argentina and I'm an SRE.
+My name is Leonardo Nava, I'm from San Diego and I'm an SRE.
 
 * Currently working for [@plaeto](https://plaeto.com) as a lead SRE
 
