@@ -35,4 +35,4 @@ My name is Pablo, I'm from Argentina and I'm an SRE.
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://fredrikson.com.ar)
+Find all of my socials and resume in my [website](https://l3onav.com)
