@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **L3oNav/l3onav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello 👋
+
+My name is Pablo, I'm from Argentina and I'm an SRE.
+
+* Currently working for [@plaeto](https://plaeto.com) as a lead SRE
+
+## Skills
+
+### SRE
+* Kubernetes
+* Azure, AWS, Terraform, Docker.
+* Critical thinking, decision-making and problem solving skills
+* Python coding
+* Special skills and experience in fast growing startups.
+
+### Data Science
+* Deep learning and recommendation systems
+* Tableau
+* Pytorch
+
+
+## Contact
+
+Find all of my socials and resume in my [website](https://fredrikson.com.ar)
