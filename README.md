@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 -->
 # Hello 👋
 
-My name is Leonardo Nava, I'm from San Diego and I'm an SRE.
+My name is Leonardo Nava, I'm from San Diego and I'm a Site Reliability Engineer.
+
+
+🔭 I’m currently do physics major.
+
+🛠️ Currently Head of the organization: [@l3onav-tech](https://github.com/l3onav-tech)
+
 
 * Currently working for [@plaeto](https://plaeto.com) as a lead SRE
 
