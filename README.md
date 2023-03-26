@@ -21,9 +21,6 @@ My name is Leonardo Nava, I'm from San Diego and I'm a Site Reliability Engineer
 
 🛠️ Currently Head of the organization: [@l3onav-tech](https://github.com/l3onav-tech)
 
-
-* Currently working for [@plaeto](https://plaeto.com) as a lead SRE
-
 ## Skills
 
 ### SRE
