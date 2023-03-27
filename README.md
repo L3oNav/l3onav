@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My name is Leonardo Nava, I'm from San Diego and I'm a Site Reliability Engineer.
 
 
-🔭 I’m currently do physics major.
+🔭 I’m currently do Physics major and Philosophy major.
 
 🛠️ Currently Head of the organization: [@l3onav-tech](https://github.com/l3onav-tech)
 
