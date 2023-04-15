@@ -21,7 +21,7 @@ My name is Leonardo Nava, I'm from San Diego and I'm a Backend Developer
 
 🛠️ Currently Head of the organization: [@l3onav-tech](https://github.com/l3onav-tech)
 
-## Skills
+### Backend Skills
 * FastAPI / Django.
 * Kubernetes.
 * Azure, AWS.
