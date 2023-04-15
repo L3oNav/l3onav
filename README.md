@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello 👋
 
-My name is Leonardo Nava, I'm from San Diego and I'm a Site Reliability Engineer.
+My name is Leonardo Nava, I'm from San Diego and I'm a Backend Developer
 
 
 🔭 I’m currently do Physics major and Philosophy major.
@@ -22,20 +22,18 @@ My name is Leonardo Nava, I'm from San Diego and I'm a Site Reliability Engineer
 🛠️ Currently Head of the organization: [@l3onav-tech](https://github.com/l3onav-tech)
 
 ## Skills
-
-### SRE
-* Kubernetes
-* Azure, AWS, Terraform, Docker.
-* Critical thinking, decision-making and problem solving skills
-* Python coding
-* Special skills and experience in fast growing startups.
+* FastAPI / Django.
+* Kubernetes.
+* Azure, AWS.
+* Docker.
+* Critical thinking, decision-making and problem solving skills.
 
 ### Data Science
 * Deep learning and recommendation systems
 * Tableau
 * Pytorch
 
-
+<!--
 ## Contact
-
 Find all of my socials and resume in my [website](https://l3onav.com)
+-->
