@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 -->
 # Hello 👋
 
-My name is Leonardo Nava, I'm from San Diego and I'm a Backend Developer
+My name is Leonardo Nava, I'm from San Diego and I'm a Backend Developer.
 
 
 🔭 I’m currently do Physics major and Philosophy major.
 
 🛠️ Currently Head of the organization: [@l3onav-tech](https://github.com/l3onav-tech)
 
-### Backend Skills
+### Base Skills
+* Python / Go.
 * FastAPI / Django.
 * Kubernetes.
 * Azure, AWS.
@@ -29,9 +30,9 @@ My name is Leonardo Nava, I'm from San Diego and I'm a Backend Developer
 * Critical thinking, decision-making and problem solving skills.
 
 ### Data Science
-* Deep learning and recommendation systems
-* Tableau
-* Pytorch
+* Deep learning and recommendation systems.
+* Tableau.
+* Pytorch.
 
 <!--
 ## Contact
