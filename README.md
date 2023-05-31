@@ -30,7 +30,7 @@ My name is Leonardo Nava, I'm from San Diego and I'm a Backend Developer.
 * Critical thinking, decision-making and problem solving skills.
 
 ### Data Science
-* Deep learning and recommendation systems.
+* Deep learning.
 * Tableau.
 * Pytorch.
 
