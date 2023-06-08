@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello 👋
 
-My name is Leonardo Nava, I'm from San Diego and I'm a Backend Developer.
+My name is Leonardo Nava, I'm from San Diego and I'm a Software Developer.
 
 
 🔭 I’m currently do Physics major and Philosophy major.
