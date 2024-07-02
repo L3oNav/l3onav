@@ -22,19 +22,12 @@ My name is Leonardo Nava, I'm from San Diego and I'm a Software Developer.
 🛠️ Currently Head of the organization: [@l3onav-tech](https://github.com/l3onav-tech)
 
 ### Base Skills
-* Python / Go.
+* Python / Go / Rust.
 * FastAPI / Django.
 * Kubernetes.
 * Azure, AWS.
 * Docker.
 * Critical thinking, decision-making and problem solving skills.
-
-### Data Science
-* Deep learning.
-* Tableau.
-* Pytorch.
-
-<!--
 ## Contact
 Find all of my socials and resume in my [website](https://l3onav.com)
 -->
